@@ -1,6 +1,11 @@
 [book]
+title = "Manuals"
 authors = ["Tim Martin"]
+description = "Choice recipes."
+src = "src"
 language = "en"
 multilingual = false
-src = "src"
-title = "Manuals"
+
+[output.html.fold]
+enable = false
+level = 0
